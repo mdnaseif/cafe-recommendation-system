@@ -63,7 +63,7 @@ Here are some screenshots of the application in action:
 - mdnaseif (GitHub username)
 
 ## License
-[Add appropriate license information here]
+MIT
 
 ---
 
